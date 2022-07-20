@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm alejandro</h1>
 <h3 align="center">frontend developer</h3>
 
-- 🌱 I’m constantly learning **js**
+- 🌱 I’m constantly learning 
 
 - 👯 I’m looking to collaborate on **something great**
 
