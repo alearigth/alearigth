@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **something great**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-alearigth.netlify.app/](https://portfolio-alearigth.netlify.app/)
+- 👨‍💻 All of my projects are available at
 
 - 💬 Ask me about **react and javascript**
 
