@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react and javascript**
 
-- 📫 How to reach me **diciembre.09.98@gmail.com**
+- 📫 How to reach me **doce.09.98@gmail.com**
 
 - ⚡ Fun fact **:(){:|:&};:**
 
